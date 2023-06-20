@@ -1,3 +1,8 @@
-# Samvad
+# Template for NodeJS API
 
-Real-time Video Streaming Application
+
+Configurations
+- Typescript
+- Zod
+- Routes
+- Logger
